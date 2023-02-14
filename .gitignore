@@ -1,2 +1,5 @@
 *.replit
 *.json
+package-lock.json
+package.json
+.replit
