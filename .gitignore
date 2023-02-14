@@ -1,5 +1,8 @@
 *.replit
 *.json
+*.nix
 package-lock.json
 package.json
 .replit
+**/node_modules
+replit.nix
