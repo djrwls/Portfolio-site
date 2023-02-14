@@ -1,8 +1,0 @@
-node_modules/
-.breakpoints
-.replit
-package-lock.json
-package.json
-replit.nix
-g.html
-test.html
